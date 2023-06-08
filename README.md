@@ -19,6 +19,7 @@ BETA(SOLO SU PC FISICI): Collegate un'altra usb con il il file Bypass.bat e eseg
 BETA(WM): Collegate alla Vm un altro lettore disco e inseriteci il file bypass.iso e eseguite Bypass.bat
 
 BETA(SOLO SU PC FISICI): Masterizzate il file bypass.iso su un DVD, inseritelo nel PC e esegite Bypass.bat
+
                                                             una USB, inseritela nel PC e esegite Bypass.bat
                                                           
 # BypassW11
@@ -42,4 +43,5 @@ BETA(ON PHYSICAL PC ONLY): Connect another usb with the Bypass.bat file and run 
 BETA(WM): Connect another disk drive to the VM and insert the bypass.iso file and run Bypass.bat
 
 BETA (ON PHYSICAL PC ONLY): Burn the bypass.iso file to a DVD, insert it into your PC and run Bypass.bat
+
                                                              a USB, insert it in the PC and run Bypass.bat
